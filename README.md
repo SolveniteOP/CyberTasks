@@ -8,11 +8,11 @@
 <br/>
 Output: VFFGUHtGRVpFWkMyMDIzfQ==
 
-Step 2: Convert from Base64 to Text
+*Step 2*: Convert from Base64 to Text
 <br/>
 Output: TQFP{FEZEZC2023}
 
-Step 3: Rotate 13
+*Step 3*: Rotate 13
 <br/>
 Answer = GDSC{SRMRMP2023}
 
