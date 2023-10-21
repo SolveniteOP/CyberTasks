@@ -4,15 +4,15 @@
 ```126 106 106 107 125 110 164 107 122 126 160 106```
 ```127 153 115 171 115 104 111 172 146 121 75 75 ```
 
-*Step 1*: Convert from Octal to Base64
+Step 1: Convert from Octal to Base64
 <br/>
 Output: VFFGUHtGRVpFWkMyMDIzfQ==
 
-*Step 2*: Convert from Base64 to Text
+Step 2: Convert from Base64 to Text
 <br/>
 Output: TQFP{FEZEZC2023}
 
-*Step 3*: Rotate 13
+Step 3: Rotate 13
 <br/>
 Answer = GDSC{SRMRMP2023}
 
