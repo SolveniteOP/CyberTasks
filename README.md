@@ -9,9 +9,13 @@ Step 1: Convert from Octal to Base64
 Output: VFFGUHtGRVpFWkMyMDIzfQ==
 
 Step 2: Convert from Base64 to Text
+<br/>
+
 Output: TQFP{FEZEZC2023}
 
 Step 3: Rotate 13
+<br/>
+
 Answer = GDSC{SRMRMP2023}
 
 ## Task 2:
@@ -22,13 +26,21 @@ Answer = GDSC{SRMRMP2023}
      00000040  32 20 35 37                                      |2 57|``
 
 Step 1: Reverse hexdump ( xxd -r filename)
+<br/>
+
 Output: 86 70 70 71 85 72 116 108 98 110 112 117 89 50 104 108 98 110 112 57
 
 Step 2: Convert from Decimal to Base64
+<br/>
+
 Output: VFFGUHtlbnpuY2hlbnp9
 
 Step 3: From Base 64 to Text
+<br/>
+
 Output: TQFP{enznchenz}
 
 Step 4: Rot13
+<br/>
+
 Output: GDSC{ramapuram}
