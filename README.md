@@ -4,7 +4,7 @@
 ```126 106 106 107 125 110 164 107 122 126 160 106```
 ```127 153 115 171 115 104 111 172 146 121 75 75 ```
 
-Step 1: Convert from Octal to Base64
+*Step 1*: Convert from Octal to Base64
 <br/>
 Output: VFFGUHtGRVpFWkMyMDIzfQ==
 
